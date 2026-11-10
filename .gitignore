@@ -3,3 +3,7 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 venv/
+
+coverflow_audit.db
+coverflow_audit.db-wal
+coverflow_audit.db-shm
